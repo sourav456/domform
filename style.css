@@ -1,0 +1,22 @@
+.formc{
+    background-color: rgba(195, 206, 209, 0.788);
+			width: 100%;
+			margin: 50px auto;
+			padding: 30px 20px;
+			box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.5);
+}
+h2{
+text-align: center;
+}
+.form-check-label{
+	margin-left:5px;
+	margin-right:15px;
+	margin-bottom: 2px;
+}
+.form-label{
+margin-top: 10px;
+}
+
+tr,th,td{
+border: thick solid #0000FF
+}
